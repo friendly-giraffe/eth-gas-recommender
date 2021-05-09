@@ -55,3 +55,4 @@ Gas is used for "doing stuff" in ethereum (sending transactions, executing smart
 - https://nodejs.org/en/knowledge/HTTP/clients/how-to-create-a-HTTP-request/
 - https://github.com/websockets/ws
 - https://stackoverflow.com/questions/12636613/how-to-calculate-moving-average-without-keeping-the-count-and-data-total
+- https://stackoverflow.com/questions/48757972/react-js-how-to-only-allow-component-to-update-once-per-second
